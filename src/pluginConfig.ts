@@ -11,7 +11,8 @@ const config: ExternalPluginConfig = {
     desktopUI: 'embedded',
     mobileUI: 'embedded',
     routerPath: '/my-plugin',
-    private: true,
+    private: false,
 };
 
 export default config;
+
