@@ -2,7 +2,7 @@ import type { ExternalPluginConfig } from '@windy/interfaces';
 
 const config: ExternalPluginConfig = {
     name: 'windy-plugin-my-plugin',
-    version: '0.1.1',
+    version: '0.1.2',
     icon: '🪂',
     title: 'Fly Ireland',
     description: 'Fly Ireland',
@@ -15,6 +15,7 @@ const config: ExternalPluginConfig = {
 };
 
 export default config;
+
 
 
 
