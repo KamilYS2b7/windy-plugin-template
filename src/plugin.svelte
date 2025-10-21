@@ -30,188 +30,285 @@ const spotText = `
 Big Colin
 Location: 54.802333, -6.084265
 Wind 145-180
+Site Diff:1
 Youtube: https://www.youtube.com/watch?v=K7tf7oSZNX8
 Youtube: https://www.youtube.com/watch?v=USrytG5HsqY
 Youtube: https://www.youtube.com/watch?v=bOvpQom5Z3Y
 //
+Ballyhoura
+Location:52.312253, -8.506177
+Wind 30-100
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=mUA7DhCa6z0
+//
+Bencroy Coal Mines
+Location:54.118640, -7.923581
+Wind 110-160
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=Oc17yiKWALs
+//
+Knockgour mountain
+Location:51.643864, -10.000998
+Wind 250-280
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=gCM3ZPMWtJo
+Youtube:https://www.youtube.com/watch?v=muKzLR2RaZY
+//
+Bray Head
+Location:53.191525, -6.084352
+Wind 20-100
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=cOFnEa7BKJg
+Youtube:https://www.youtube.com/watch?v=zevrClsu9pM
+//
 Dungiven
 Location: 54.934995, -6.866763
 Wind 220-290
+Site Diff:2
 Youtube: https://www.youtube.com/watch?v=XFIMLCErd-U
 //
 Dungiven NW
 Location: 54.945514, -6.873402
 Wind 300-340
+Site Diff:2
 Youtube:
 //
 Dungiven Boviel
 Location: 54.919836, -6.850042
 Wind 190-240
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=_dIO9i3QWGk
+//
+Castlefreke
+Location: 51.556911, -8.966150
+Wind 190-225
+Site Diff:1
+Youtube:https://www.youtube.com/watch?v=6uqQuc4lC3k
 //
 Mayobridge
 Location: 54.170498, -6.192803
 Wind 270-340
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=ThiWoi7RIxw
+//
+Maulin
+Location: 51.682347, -9.870500
+Wind 180-210
+Site Diff:2
+Youtube:https://www.youtube.com/watch?v=2-qoSH_6FjU
 //
 Slemish
 Location: 54.881227, -6.097416
 Wind 240-260
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=E8FT39Lmpjk
 //
 Skerrywhirry
 Location: 54.834742, -5.998588
 Wind 220-260
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=rrk76rOGhGY
 //
 Skeagh
 Location: 54.886143, -5.971930
 Wind 80-230
+Site Diff:1
 Youtube:
+//
+Gyles Quay Beach
+Location: 53.986062, -6.233917
+Wind 140-180
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=H9fEZEB9iXE
+//
+Hill Beach
+Location: 53.979579, -6.156882
+Wind 130-150
+Site Diff:1
+Youtube:https://www.youtube.com/watch?v=Ie8i_nUVUlU
+Youtube:https://www.youtube.com/watch?v=GkvqmnQARRc
 //
 Agnews
 Location: 54.844659, -5.932023
 Wind 40-110
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=dSBLEpb9q6U
+Youtube:https://www.youtube.com/watch?v=5Z_GsGIAKb4
 //
 Robin Youngs
 Location: 54.891851, -5.916308
 Wind 0-60
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=Py5EDPiIZ1w
+Youtube:https://www.youtube.com/watch?v=k8X9hdfE54M
 //
 Shanes Hill
 Location: 54.819792, -5.927578
 Wind 60-120
+Site Diff:2
 Youtube:
 //
 Knockagh Monument
 Location: 54.711187, -5.879283
 Wind 110-180
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=TC1hpoydJ6Y
 //
 Divis
 Location: 54.605172, -5.998758
 Wind 40-120
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=bbJ7mJLHcqM
 //
 Mayobridge North
 Location: 54.170883, -6.182196
 Wind 340-20
+Site Diff:3
 Youtube:
 //
 Spelga
 Location: 54.188606, -6.065619
 Wind 290-340
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=ZtQLQRCCRFQ
 //
 Carlingford
 Location: 54.032794, -6.205849
 Wind 60-100
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=M8c4oCXRZ0U
 //
 Barnevave
 Location: 54.025038, -6.204715
 Wind 240-270
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=4340ALozBOo
 //
 Clermont Carn
 Location: 54.078550, -6.319776
 Wind 165-200
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=AotkCwwkYZo
 //
 Slieve Gullion
 Location: 54.129181, -6.443139
 Wind 230-280
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=FnOApdHAde4
 //
 Slieve Gullion S
 Location: 54.121027, -6.434222
 Wind 190-210
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=iQP6Q-KNC24
 //
 Slieveban
 Location: 54.083209, -6.165797
 Wind 195-245
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=ERI8Bu7wMAc&t=7s
 //
 Slieve Binnian East
 Location: 54.140269, -5.972614
 Wind 175-210
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=2YxPg1jXPRU
 //
 Slieve Meelmore
 Location: 54.199431, -6.006449
 Wind 350-45
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=XEufb-mxmf0
 //
 Hen mountain
 Location: 54.182433, -6.097136
 Wind 260-300
+Site Diff:3
 Youtube:
+//
+Mt Errigal
+Location: 55.028833, -8.102669
+Wind 140-200
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=04tjBVPjSQQ
 //
 Ometh
 Location: 54.085152, -6.301297
 Wind 60-95
+Site Diff:2
 Youtube:
 //
 Castle Roche
 Location: 54.045962, -6.487850
 Wind 205-245
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=z9IoTej_4MQ&t=130s
 //
 White Mountain W
 Location: 54.863579, -6.851828
 Wind 260-330
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=Bbr_EOHZNVY
 //
 White Mountain S
 Location: 54.848923, -6.849018
 Wind 155-230
+Site Diff:4
 Youtube:
 //
 Craigagh Hill
 Location: 54.831109, -6.884755
 Wind 90-130
+Site Diff:3
 Youtube:
 //
 Coolnasillagh
 Location: 54.849832, -6.785004
 Wind 120-150
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=ePU5OCOZ8Hs
 //
 Magilligan Hells Hole
 Location: 55.138244, -6.884943
 Wind 270-330
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=oYMbucOBkrw
 //
 Magilligan N
 Location: 55.153811, -6.872439
 Wind 290-360
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=YhpfmynQlTg
+Youtube:https://www.youtube.com/watch?v=lgqMqsM8-fU
 //
 Torr Head
 Location: 55.199925, -6.095361
 Wind 30-60
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=qxVZLUWeCPI
 //
 White Park Bay
 Location: 55.229423, -6.394838
 Wind 315-360
+Site Diff:3
 Youtube:
 //
 Lurigethan
 Location: 55.058276, -6.090163
 Wind 305-335
+Site Diff:0
 Youtube:
 //
 Slieve Croob
 Location: 54.339965, -5.973334
 Wind 1-360
+Site Diff:3
 Youtube:
 //
 Buncrana
 Location: 55.096366, -7.468954
 Wind 270-335
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=BVrlsPU9FIs
 Youtube:https://www.youtube.com/watch?v=3vMtDM-sIVs
 ss
@@ -219,235 +316,310 @@ ss
 Portsalon
 Location: 55.182947, -7.593076
 Wind 290-330
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=fkdph_G9HQ8
 //
 Leenakeel Bay Beach
 Location: 55.241737, -7.519642
 Wind 230-250
+Site Diff:0
 Youtube:
 //
 Tullagh Strand
 Location: 55.281352, -7.443092
 Wind 330-45
+Site Diff:0
 Youtube:
 //
 Five Finger Strand
 Location: 55.320426, -7.331312
 Wind 240-290
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=L7r0AVohGxE
 //
 Tramore
 Location: 55.168727, -7.827578
 Wind 260-310
+Site Diff:1
 Youtube:
 //
 Dooey Beach
 Location: 54.870663, -8.384738
 Wind 255-300
+Site Diff:1
 Youtube:
 //
 White Rock Beach
 Location: 55.206472, -6.614547
 Wind 350-45
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=1GdWi4vI5C0
 //
 Muckish N
 Location: 55.106324, -7.993092
 Wind 330-15
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=UnmAKvqail4
 //
 Ballinreavy Strand
 Location: 54.801462, -8.469882
 Wind 200-270
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=BKi3SUB5hus
 //
 Tullan Strand
 Location: 54.497779, -8.265295
 Wind 260-310
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=n1aliUOTjMA
 //
 Cliffony Bay Beach
 Location: 54.439267, -8.467590
 Wind 250-320
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=eyJ7STciBRs&t=100s
 //
 Ben Bulben
 Location: 54.364021, -8.490841
 Wind 310-350
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=xQ021km1hs4
 //
 Dunany Co. Louth Ireland
 Location: 53.857195, -6.244373
 Wind 90-140
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=zdIddTiBN9w&t=147s
 //
 Gormanston
 Location: 53.644512, -6.218042
 Wind 50-100
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=sncqGk1DEgU
 //
 Ardgillan Demesne Bay Beach
 Location: 53.593771, -6.157086
 Wind 35-90
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=AT-he6Wo0aA
 //
 Killiney Hill Park
 Location: 53.265444, -6.111444
 Wind 90-150
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=7cmeyWkw2SY&t=12s
+Youtube:https://www.youtube.com/watch?v=PDsqoFGR9JI
 //
 Great Sugar Loaf
 Location: 53.153975, -6.150266
 Wind 150-270
+Site Diff:0
 Youtube:https://www.youtube.com/watch?v=E8b95uvg4dg
 //
 Lough Tay View Point
 Location: 53.113555, -6.263583
 Wind 200-250
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=C3JIJko9MXI
 //
 Lough Tay S
-Location: 53.102881, -6.257138
+Location: 53.102001, -6.257756
 Wind 270-330
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=ACu-Oz1yS3s
+//
+Lough Tay E
+Location: 53.105217, -6.254283
+Wind 260-280
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=H9wFFQdUM3s
 //
 Tonelagee
 Location: 53.047467, -6.391189
 Wind 140-210
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=nZXAFIzD5FY
 //
 Lough Bray Upper
 Location: 53.175377, -6.305293
 Wind 30-90
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=v-AD3FtxDSw
 //
 Lough Bray Lower
 Location: 53.189136, -6.307998
 Wind 135-155
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=L2Q73KwdM6U
 //
 Kilbeg
 Location: 53.129958, -6.446629
 Wind 260-310
+Site Diff:0
 Youtube:https://www.youtube.com/watch?v=hxmeR_plTP0
 //
 Sorrel Hill
 Location: 53.144645, -6.445282
 Wind 190-220
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=9poWNaG34Rc
 //
 Croghan Mountain
 Location: 52.793814, -6.332727
 Wind 155-190
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=wU-79q1jqjs
 //
 Annagh Hill
 Location: 52.752024, -6.370525
 Wind 120-170
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=Hoj1Pxfn7-g
+Youtube:https://www.youtube.com/watch?v=zDcmBMumsuo
 //
 Slieve Bui
 Location: 52.658136, -6.475468
 Wind 110-170
+Site Diff:2
 Youtube:https://www.youtube.com/watch?v=qN-Pk9SMDSU
 //
 Mount Leinster
 Location: 52.616587, -6.779473
 Wind 180-270
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=42zWDHP3Jyg
+//
+Mount Leinster N
+Location: 52.636022, -6.813285
+Wind 140-180
+Site Diff:2
+Youtube:https://www.youtube.com/watch?v=WU4YrSeDr-k
+//
+Maulin Peak
+Location: 53.155384, -6.230267
+Wind 350-30
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=1YrYhS4SHoc
 //
 Blackstairs
 Location:52.532022, -6.842373
 Wind 290-330
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=WHULL74xYfk
 //
 Blackwater
 Location:52.463019, -6.296025
 Wind 90-140
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=9aJ19osqRVk
 //
 Knocknasilloge Bay Beach
 Location:52.450102, -6.307974
 Wind 90-140
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=0rq_vsyj6C4
 //
 Old Head of Kinsale
 Location:51.619034, -8.545797
 Wind 210-240
+Site Diff:5
 Youtube:https://www.youtube.com/watch?v=ox1Bg-8J9C8&t=65s
+Youtube:https://www.youtube.com/watch?v=BlHGhtGWZwM
+Youtube:hhttps://www.youtube.com/watch?v=aL0TeHqb6rk
 //
 Inchydoney Beach
 Location:51.599029, -8.858881
 Wind 140-180
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=OlnKeloOBBY
 //
 Knocknagantee
 Location:51.894073, -9.935079
 Wind 130-200
+Site Diff:5
 Youtube:https://www.youtube.com/watch?v=_1EW0QJJL8U
 //
 Rossbeigh Mountain
 Location:52.047600, -9.981986
 Wind 320-360
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=Hm1c3ZE6PKM
 //
 Binn Fhaiche
 Location:52.238595, -10.223504
 Wind 120-170
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=oVQLUvJux9c
 Youtube:https://www.youtube.com/watch?v=Z1OFQowXKCc
 //
 Stradbally Beach
 Location:52.254627, -10.071163
 Wind 290-330
+Site Diff:1
 Youtube:https://www.youtube.com/watch?v=bCrE_fxpP34
 //
 Fanore
 Location:53.113834, -9.273628
 Wind 270-310
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=tgpD4n1k3_E&t=131
 //
 Atlantic Drive
 Location:53.897575, -9.992084
 Wind 190-230
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=97WZrBFQCIw
 //
 Minaun Heights
 Location:53.954746, -10.025487
 Wind 100-160
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=Z2GIbs178Pg
 //
 Keel Bay
 Location:53.962694, -10.046897
 Wind 230-260
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=eiS9Y9HaeyY
 //
 Cliffs of Magho
 Location:54.467065, -7.909476
 Wind 330-30
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=Eb_9LW0n9vw
 //
 Ballingarraun
 Location:52.175008, -10.194766
 Wind 160-210
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=OG_peDzN3AQ
 //
 Cave Hill
 Location:54.648056, -5.948841
 Wind 60-140
+Site Diff:4
 Youtube:https://www.youtube.com/watch?v=QTLmrnX6wiQ
 //
 Smerwick
 Location:52.151989, -10.349716
 Wind 290-330
+Site Diff:3
 Youtube:https://www.youtube.com/watch?v=QTLmrnX6wiQ
+//
+Seven Heads Bay
+Location:51.597994, -8.702313
+Wind 110-130
+Site Diff:3
+Youtube:https://www.youtube.com/watch?v=54qPGCICok8
 `;
+
 
 /* ======= TYPY / STAN ======= */
 type Spot = {
   id:string; name:string; lat:number; lon:number;
   sectorStart:number; sectorEnd:number;
   youtube: string[];
+  diff?: number;  
 };
 let spots: Spot[] = [];
 let dialMarkers: any[] = [];       // rozety (niższy pane)
@@ -463,6 +635,7 @@ const paneLabels = 'windRoseLabelsPane';
 let lastDialVisible = new Set<string>();
 
 /* ======= PARSER ======= */
+
 function parseSpots(txt:string): Spot[] {
   const lines = txt.split('\n').map(l => l.trim());
   const out: Spot[] = [];
@@ -474,15 +647,22 @@ function parseSpots(txt:string): Spot[] {
       if (lines[k]) block.push(lines[k]);
       k++;
     }
+
     const name = block[0] || '';
     const locLine  = block.find(l => /^Location:/i.test(l)) || '';
     const windLine = block.find(l => /^Wind\b/i.test(l))     || '';
+    const diffLine = block.find(l => /^Site\s*Diff\b/i.test(l)) || '';   // <— DODANE
+
     const loc  = locLine.match(/Location:\s*([-\d.]+)\s*,\s*([-\d.]+)/i);
     const wind = windLine.match(/Wind\s+(\d+)\s*-\s*(\d+)/i);
+    const diffMatch = diffLine.match(/Site\s*Diff\s*:\s*(\d+)/i);        // <— DODANE
+    const diff = Math.max(0, Math.min(5, parseInt(diffMatch?.[1] ?? '0', 10))); // <— DODANE
+
     const ytAll = block
       .filter(l => /^Youtube\b/i.test(l))
       .map(l => l.match(/Youtube:\s*(\S+)/i)?.[1])
       .filter((u): u is string => !!u);
+
     if (name && loc && wind) {
       out.push({
         id: `${name}-${out.length}`,
@@ -491,13 +671,15 @@ function parseSpots(txt:string): Spot[] {
         lon: parseFloat(loc[2]),
         sectorStart: parseInt(wind[1],10),
         sectorEnd:   parseInt(wind[2],10),
-        youtube: ytAll
+        youtube: ytAll,
+        diff,                                                   // <— DODANE
       });
     }
     i = k-1;
   }
   return out;
 }
+
 
 /* ======= GEOMETRIA ======= */
 function normDeg(d:number){ return ((d%360)+360)%360; }
@@ -549,6 +731,13 @@ function buildCollisionComponentsAtZoom(spots: Spot[], targetZoom: number, diame
   }
   return { comps };
 }
+/* ======= PADDING DLA PASKA TRUDNOŚCI (poza rozetą) ======= */
+function diffPadForD(D:number){
+  const rectH = Math.round(Math.max(6, D * 0.045));
+  const gap   = 4;
+  const titlePad = Math.round(Math.max(6, D * 0.04)); // dodatkowy pad na napis
+  return Math.ceil(rectH/2 + gap + 4 + titlePad);
+}
 
 /* ======= STAGGER ======= */
 function staggerDelayMs(spot: Spot){
@@ -565,7 +754,11 @@ function gmapsDirectionsUrl(spot: Spot){
 
 /* ======= ROZETA (HTML) ======= */
 function buildDialHTML(spot:Spot, D:number, animate:boolean){
-  const R = D/2, cx = R, cy = R;
+  const R = D/2;
+  const pad = diffPadForD(D);          // dodatkowy margines na zewnętrzne prostokąty
+  const cx = R + pad, cy = R + pad;    // centrum przesunięte o pad
+  const svgW = D + 2*pad;              // większy obszar SVG
+
   const ringR = R*0.985, faceR = R*0.975;
   const arcGapPx = 2;
   const arcR = ringR - (GREEN_SW/2) - arcGapPx;
@@ -606,11 +799,61 @@ function buildDialHTML(spot:Spot, D:number, animate:boolean){
     <text x="${cx - cardR}" y="${cy}"  text-anchor="middle" dominant-baseline="middle" class="card">W</text>
   `;
 
+    /* ======= WSKAŹNIK TRUDNOŚCI (NA ZEWNĄTRZ) ======= */
+const MAX_DIFF = 5;
+const diffVal = Math.max(0, Math.min(MAX_DIFF, spot.diff ?? 0));
+
+// prostokąty: szersze wzdłuż łuku (tangens), niższe radialnie
+const rectW = Math.round(Math.max(12, D * 0.11));
+const rectH = Math.round(Math.max(6,  D * 0.045));
+const rectGapFromRing = 4;
+const rectR = ringR + rectH/2 + rectGapFromRing;
+
+// wachlarz kątów dla prostokątów
+const startDeg = -28, endDeg = 28;
+const step = (endDeg - startDeg) / (MAX_DIFF - 1);
+
+// NAPIS „Difficulty” — po zewnętrznym łuku, przed 1. prostokątem
+const titleAngleStart = startDeg - 50;
+const titleAngleEnd   = startDeg - 10;
+const titleRadialOffset = rectH/10 + 2;   // odsunięcie poza „klocki”
+const titleR = rectR + titleRadialOffset;
+
+const safeSpotId  = String(spot.id).replace(/[^a-zA-Z0-9_-]/g, '');
+const titlePathId = `diffArc-${safeSpotId}`;
+const titlePathD  = arcPath(titleR, titleAngleStart, titleAngleEnd);
+
+const diffTitleDefs = `<defs>
+  <path id="${titlePathId}" d="${titlePathD}" transform="translate(${cx},${cy})"></path>
+</defs>`;
+
+const diffTitle = `<text class="diff-title" dominant-baseline="middle" text-anchor="end">
+  <textPath href="#${titlePathId}" startOffset="100%"><tspan dx="-3">Site Difficulty</tspan></textPath>
+</text>`;
+
+
+// PROSTOKĄTY (z rotacją po stycznej)
+const diffRects = Array.from({ length: MAX_DIFF }, (_, i) => {
+  const d = startDeg + i * step;
+  const a = (d - 90) * Math.PI / 180;
+  const cxr = cx + rectR * Math.cos(a);
+  const cyr = cy + rectR * Math.sin(a);
+  const x = cxr - rectW/2;
+  const y = cyr - rectH/2;
+  const active = i < diffVal ? ' active' : '';
+  return `<rect x="${x}" y="${y}" width="${rectW}" height="${rectH}"
+                rx="${Math.max(2, rectH*0.3)}" ry="${Math.max(2, rectH*0.3)}"
+                class="diff-rect${active}" transform="rotate(${d} ${cxr} ${cyr})" />`;
+}).join('');
+
+
   const animClasses = animate ? ' animate-pre animate-arm' : '';
 
-  return `
+    return `
   <div class="wr wr-dial${animClasses}" data-spot-id="${spot.id}">
-    <svg width="${D}" height="${D}" viewBox="0 0 ${D} ${D}" class="dial">
+    <svg width="${svgW}" height="${svgW}" viewBox="0 0 ${svgW} ${svgW}" class="dial">
+      ${diffTitleDefs}
+
       <circle cx="${cx}" cy="${cy}" r="${ringR}" class="ring"/>
       <circle cx="${cx}" cy="${cy}" r="${faceR}" class="face" style="fill-opacity:${faceOpacity}"/>
 
@@ -629,11 +872,17 @@ function buildDialHTML(spot:Spot, D:number, animate:boolean){
       ${labels30}
       ${cards}
 
+      <!-- PASEK TRUDNOŚCI NA ZEWNĄTRZ -->
+      ${diffTitle}
+      <g class="diff">${diffRects}</g>
+
       <circle cx="${cx}" cy="${cy}" r="${Math.max(3, D*0.02)}" class="center"/>
     </svg>
     <div class="title">${spot.name}</div>
   </div>`;
+
 }
+
 
 /* ======= MENU YT + MAPS + (NOWE) INFO ======= */
 function buildMenuHTML(spot:Spot, D:number){
@@ -900,12 +1149,16 @@ function getPaddedLatLngBounds(padPx:number){
 /* ======= DODAWANIE MARKERÓW ======= */
 function addDial(s: Spot, D: number, animate:boolean){
   const html = buildDialHTML(s, D, animate);
+  const pad = diffPadForD(D);
+  const svgW = D + 2*pad;
+
   const icon = L.divIcon({
     className: 'wind-rose-icon dial-icon',
     html,
-    iconSize: [D, D + 24],
-    iconAnchor: [D/2, D/2],
+    iconSize: [svgW, svgW + 24],   // większe pudełko na powiększony SVG
+    iconAnchor: [svgW/2, svgW/2],  // kotwica w środku powiększonego obrazka
   });
+
   const m = L.marker([s.lat, s.lon], { icon, interactive:false, pane:paneDial }).addTo(map);
   dialMarkers.push(m);
   if (animate){
@@ -913,6 +1166,7 @@ function addDial(s: Spot, D: number, animate:boolean){
     setTimeout(() => runDialAnimation(m, delay, s.id), 0);
   }
 }
+
 function addUiMenu(s: Spot, D: number){
   const html = buildMenuHTML(s, D);
   const icon = L.divIcon({
@@ -1258,4 +1512,45 @@ onDestroy(() => {
 :global(.info-btn:hover){ transform: translateY(-2px) scale(1.03); box-shadow: 0 4px 14px rgba(0,0,0,.35); }
 :global(.info-btn svg circle){ fill:#1e88e5; }
 :global(.info-btn svg rect){ fill:#ffffff; }
+/* ——— Wskaźnik trudności (0–5) ——— */
+
+:global(.diff-rect){
+  fill: #9e9e9e;         /* szare tło zawsze widoczne */
+  opacity: .35;          /* półprzezroczyste */
+  stroke: rgba(0,0,0,.18);
+  stroke-width: 1;
+  pointer-events: none;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,.12));
+}
+:global(.diff-rect.active){
+  /* bardziej czerwone, nadal przyjemne */
+  fill: #2ea4ff;         /* było #ffb3b3 */
+  opacity: .95;
+  stroke: rgba(176, 0, 0, .35);
+}
+
+/* ——— Etykieta "Site difficulty" ——— */
+:global(.diff-label){
+  font: 12px/1.2 system-ui, sans-serif;
+  fill: #333;
+  opacity: .9;
+  dominant-baseline: central;
+  user-select: none;
+}
+/* ——— Tytuł "Site Difficulty" ——— */
+:global(.diff-title){
+  font: 12px/1.2 system-ui, sans-serif;
+  fill: #333;
+  opacity: .9;
+  dominant-baseline: central;
+  user-select: none;
+  /* delikatny cień dla czytelności nad mapą */
+  paint-order: stroke fill;
+  stroke: rgba(255,255,255,.9);
+  stroke-width: 2px;
+}
+
+
+
 </style>
+
