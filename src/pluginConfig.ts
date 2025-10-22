@@ -9,12 +9,13 @@ const config: ExternalPluginConfig = {
     author: 'Kamil (optional company name)',
     repository: 'https://github.com/windycom/windy-plugin-template',
     desktopUI: 'embedded',
-    mobileUI: 'embedded',
+    mobileUI: 'fullscreen',
     routerPath: '/my-plugin',
     private: false,
 };
 
 export default config;
+
 
 
 
